@@ -4,7 +4,7 @@
 
 **`Cybersecurity Enthusiast (Pentester/Cloud Security/Vulnerability Researcher)`**
 
-### [🔒 My Cybersecurity Projects](https://github.com/OussamaMahmoudiCybersec/OussamaMahmoudiCyberSec/projects)
+### [🔒 My Cybersecurity Projects](https://github.com/OussamaMahmoudiCybersec?tab=repositories)
 
 ---
 
