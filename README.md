@@ -1,4 +1,9 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&color=%2336BCF7&vCenter=true&height=35&lines=%23+Cyber+Security+Analyst;%E2%9C%93+Programmer;%E2%9C%93+Pentester;%E2%9C%93+CTF+Player+;%E2%9C%93+Red+Teamer;%E2%9C%93+Gamer)
 
+<h1 align="center">Hi, I'm Oussama</h1>
+<h3 align="center">| Cyber Security Enthusiast | Pentester | Youtuber | Gamer |</h3>
+
+---
 
 # 🧑‍💻 Oussama Mahmoudi
 
