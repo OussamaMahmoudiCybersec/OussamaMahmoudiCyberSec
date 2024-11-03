@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira&size=23&pause=1000&color=00F73B&center=true&vCenter=true&width=442&height=54&lines=Hi%2C+I'm+Oussama;Welcome+To+My+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira&size=23&duration=2000&pause=750&color=11D7F7&vCenter=true&repeat=false&width=442&height=54&lines=Hi%2C+I'm+Oussama;Welcome+To+My+Github!;Feel+Free+To+Check+My+Projects+%F0%9F%91%87;Have+a+wonderful+day+%3A))](https://git.io/typing-svg)
+
 ---
 
 # 🧑‍💻 Oussama Mahmoudi
